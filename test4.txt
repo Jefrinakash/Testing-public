@@ -1,0 +1,4 @@
+#/bin/bash 
+
+
+Hello how are you what are you doing ? this is text file 4 
